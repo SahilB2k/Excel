@@ -86,3 +86,13 @@ All formulas included in this project have been practically implemented and test
 
 ---
 
+## Sample Dashboard
+
+<p align="center">
+  <img src="assets/excel_dashboard.png" alt="Excel Dashboard" width="800">
+</p>
+
+Figure: Sales performance dashboard created using Excel charts , Pivot tables and Macros.
+
+---
+
